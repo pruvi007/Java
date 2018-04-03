@@ -1,0 +1,9 @@
+The term scheduling analysis in real time computing includes the analysis and testing of the scheduler system and the
+ algorithms used in real time applications. In computer science, real time scheduling Analysis is the evaluation, testing
+ and verification of the scheduling system and the algorithms used in real time operations. For critical operations, a
+ real time system must be tested and verified for performance. In computer science, testing and verification is also known
+ as model checking. A real time scheduling System is composed of the scheduler, clock and the processing hardware elements.
+ In a real time system, a process or task has schedulability; tasks are accepted by a real time system and completed as 
+ specified by the task deadline depending on the characteristic of the scheduling algorithm. Modeling and evaluation of a
+ real time scheduling system concern is on the analysis of the algorithm capability to meet a process deadline. A deadline
+ is defined as the time required for a task to be processed.

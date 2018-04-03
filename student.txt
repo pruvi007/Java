@@ -1,0 +1,7 @@
+Praveen,41,91,92,97
+Nisha,2,85,86,-2
+Divyani,20,75,89,56
+Meenal,24,90,81,87
+Anitamma,3,45,80,-5
+Sanchita,32,69,89,99
+Pooja,40,91,92,80
